@@ -13,6 +13,6 @@ jobs:
        matrix:
          os: [ubuntu-18.04, ubuntu-16.04]
     steps:
-    - #uses: actions/checkout@v2  
+    - uses: actions/checkout@v2  #チェックアウトするってどう言うことだ？
     - name: Hello World
       run: echo "Hello World"
