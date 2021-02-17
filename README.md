@@ -20,4 +20,6 @@ gitレクチャー用のリポジトリ
 ## 開発する上でのルール
 ゴミファイルはgitに載せないこと
 
+
 ## conflictの練習1
+## conflict lesson
