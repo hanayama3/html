@@ -21,5 +21,4 @@ gitレクチャー用のリポジトリ
 ゴミファイルはgitに載せないこと
 
 
-## conflictの練習1
-## conflict lesson
+## conflictの練習だぜ
